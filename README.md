@@ -165,11 +165,6 @@ We welcome contributions! To contribute:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## Contact
 For feedback or support, please contact:
 - Email: [alirezaesrafili553@gmail.com](mailto:alirezaesrafili553@gmail.com)
